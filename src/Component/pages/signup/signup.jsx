@@ -3,7 +3,7 @@ import "./signup.css";
 import Button from "@mui/material/Button";
 import TextField from "@mui/material/TextField";
 import Image from "../../images/backround-image.png";
-import BlogImg from "../../images/blogsc.png";
+
 
 const firstNameRegex = /^[A-Z]{1,1}[a-z]{3,30}$/;
 const lastNameRegex = /^[a-z[A-Z]{3,30}$/;
