@@ -1,0 +1,51 @@
+.signin-main-page{
+    border: 1px solid black;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.login-page{
+    width: 50%;
+    height: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.login-header{
+    height: 20%;
+    width: 80%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.signup-link{
+    width: 40%;
+    font-size: 18px;
+    color: black;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;   
+}
+
+.signin-form{
+    height: 70%;
+    width: 80%; 
+    display: flex; 
+    flex-direction: column;
+    align-items: center;   
+}
+
+.email-id{
+    height: 15%;
+    width: 100%;                 
+}
+.password{
+    height: 15%;
+    width: 100%; 
+}
